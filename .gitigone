@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cpython
+*.pyc
+
+# Jython
+*.pyc
+*.pyo
+
+# SageMath
+*.sage.py
+*.swp
+
+# env
+.env
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Python tools
+pip-log.txt
+pip-delete-this-directory.txt
+
+# pycache
+__pycache__/
+
+# virtualenv
+venv/
+ENV/
+
+# Django
+*.log
+*.pot
+*.pyc
+db.sqlite3
+manage.py
+
+# Flask
+instance/
+.webassets-cache
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# scikit-learn
+scikit_learn_data/
+
+# Sphinx documentation
+docs/_build/
+doc/build/
+
+# PyBuilder
+target/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
